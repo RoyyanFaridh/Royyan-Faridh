@@ -1,4 +1,3 @@
-# Royyan-Faridh
 # 💫 About Me:
 Hi, I'am Royyan Faridh Nashruddin<br><br>I'am a student of Yogyakarta State University<br>I'am a Education of Informatics Engineering 
 
