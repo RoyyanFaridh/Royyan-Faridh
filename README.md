@@ -13,8 +13,6 @@ Hi, I'am Royyan Faridh Nashruddin<br><br>I'am a student of Yogyakarta State Univ
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RoyyanFaridh&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyyanFaridh&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RoyyanFaridh&icon=0&color=6)](https://visitcount.itsvg.in)
